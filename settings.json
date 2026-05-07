@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "ramin2203.aternos.me:53335",
+    "port": 53335,
+    "version": "1.16.5"
   },
   "position": {
     "enabled": true,
