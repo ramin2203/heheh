@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ramin2203.aternos.me:53335",
+    "ip": "ramin2203.aternos.me",
     "port": 53335,
     "version": "1.16.5"
   },
